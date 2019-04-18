@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.deps.json
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.dll
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/bin/Debug/netcoreapp2.2/Garage.pdb
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.dll
+/Users/apple/workspace/csharp/exercises/vehicle-interfaces/obj/Debug/netcoreapp2.2/Garage.pdb
